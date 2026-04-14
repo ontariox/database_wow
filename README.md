@@ -1,6 +1,6 @@
 # database_wow
 
-# database_wow
+
 
 ## Description
 This project is a simple C-based application developed as a university assignment.  
